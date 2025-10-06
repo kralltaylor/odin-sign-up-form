@@ -1,3 +1,10 @@
+@font-face {
+        font-family: 'Norse'; /* Choose a name for your font */
+        src: url('/fonts/Norse-Bold.otf') format('opentype');     
+        font-weight: bold; /* Or specify a specific weight like bold, 700, etc. */
+        font-style: normal; /* Or specify italic, oblique, etc. */
+    }
+
 * {
     margin: 0;
     padding: 0;
