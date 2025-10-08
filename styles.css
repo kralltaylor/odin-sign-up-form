@@ -56,7 +56,7 @@ body {
 .headline-text {
     
     font-family: 'Norse';
-    font-weight: bold;
+    font-weight: bold !important;
     font-size: 4rem;
     color: white;
     padding: 10px;
